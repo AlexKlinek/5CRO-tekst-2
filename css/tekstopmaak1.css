@@ -1,0 +1,31 @@
+.abs{
+    font-size: 16px;
+}
+.rel{
+    font-size: 1.5em;
+}
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+.bold-italic{
+    font-weight: bold;
+    font-style: italic;
+}
+.fijnste{
+font-weight: 100;
+}
+.normaal{
+    font-weight: 400;
+}
+.dikke{
+    font-weight: 700;
+}
+.ff1{
+    font-family: arial;
+}
+.ff2{
+    font-family: 'Times New Roman';
+}
