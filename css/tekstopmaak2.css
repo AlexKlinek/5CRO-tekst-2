@@ -1,0 +1,30 @@
+.links{
+text-align: left;
+}
+.midden{
+text-align: center;
+}
+.rechts{
+text-align: right;
+}
+.onder{
+text-decoration: underline;
+}
+.door{
+text-decoration: line-through;
+}
+.insprong1{
+text-indent: 40px;
+}
+.insprong2{
+text-indent: 10%;
+}
+.kast1{
+text-transform: uppercase;
+}
+.kast2{
+text-transform: lowercase;
+}
+.kast3{
+text-transform: capitalize;
+}
